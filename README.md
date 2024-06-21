@@ -1,5 +1,4 @@
-<img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
-
+[github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=辰逸.
 ## 前端工程师—辰逸
 
 为技术疯狂。
