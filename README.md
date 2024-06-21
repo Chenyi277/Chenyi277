@@ -16,16 +16,3 @@
 <a href="https://tailwindcss.com"><code><img height="20" src="./images/tailwindcss.png"></code></a>
 <a href="https://go.dev/"><code><img height="20" src="./images/golang.png"></code></a>
 <a href="https://www.docker.com"><code><img height="20" src="./images/docker.png"></code></a>
-
-### 开源项目
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Chenyi277&repo=mp4To4K-rust)](https://github.com/Chenyi277/mp4To4K-rust)
-<br><br><br>
-
-### Github 活跃度
-
-[![](https://activity-graph.herokuapp.com/graph?username=Chenyi277&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Chenyi277's github stats](https://github-readme-stats.vercel.app/api?username=Chenyi277&show_icons=true&theme=vue)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chenyi277&langs_count=6)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chenyi277&layout=compact&langs_count=6)
