@@ -6,7 +6,7 @@
 
 ## 前端工程师—辰逸
 
-为技术疯狂。
+### 为技术疯狂。
 
 ### **技术栈:**
 
@@ -21,4 +21,4 @@
 <a href="https://go.dev/"><code><img height="20" src="./images/golang.png"></code></a>
 <a href="https://www.docker.com"><code><img height="20" src="./images/docker.png"></code></a>
 
-[github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=辰逸.
+[github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=辰逸Chenyi-为技术疯狂.
